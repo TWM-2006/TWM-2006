@@ -47,7 +47,8 @@
           I build interactive experiences and web applications with performance, architecture, and security in mind.
         </p>
         <p style="line-height: 1.6; margin: 15px 0 0;">
-          With experience in both creating software and ethically breaking it, I implement security best practices during development while proactively identifying vulnerabilities through comprehensive penetration testing. This dual perspective enables me to deliver solutions that are not just functional, but fundamentally secure by design.
+          My background in both software development and penetration testing allows me to approach projects from a dual perspective — creating robust solutions while proactively identifying and mitigating potential vulnerabilities.
+        </p>
         </p>
         <p style="line-height: 1.6; margin: 15px 0 0;">
           My technical approach combines modern web development frameworks with offensive security methodologies to create applications that withstand real-world threats while maintaining optimal performance and user experience.
