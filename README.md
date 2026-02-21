@@ -1,18 +1,188 @@
-<h1 align="center">Hi 👋, I'm Tamer</h1>
-<h3 align="center">Software Enginner</h3>
+<div align="center">
+<!-- Waving Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F3AFF&height=100&section=header&animation=fadeIn" />
 
-
-- 🌱 I’m currently learning **C# , .NET**
-
-- 📫 How to reach me **Tamer2006m2@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/TWM-2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alyaa-tamer" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/TWM-2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alyaa_tamer" height="30" width="40" /></a>
+<!-- Professional Role Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-sh1vam--03-6F3AFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Web_Tester-0D1117?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>) 
 
+
+
+  <div style="margin: 20px 0; padding: 0 15px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=6F3AFF&center=true&vCenter=true&width=800&height=70&lines=Full+Stack+Developer;Web+Security+%26+Penetration+Tester;" alt="Typing SVG" style="max-width: 100%; height: auto;"/>
+  </div>
+</div>
+
+
+<div align="center" style="margin: 20px 0; padding: 0 15px;">
+<!-- Profile Statistics -->
+<table align="center" style="width: 100%; max-width: 800px; border-collapse: collapse; margin: 20px auto;">
+  <tr>
+    <td align="center" style="padding: 12px;">
+      <img src="https://komarev.com/ghpvc/?username=sh1vam-03&label=PROFILE+VIEWS&color=6F3AFF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+    </td>
+    <td align="center" style="padding: 12px;">
+      <a href="https://github.com/sh1vam-03?tab=followers">
+        <img src="https://custom-icon-badges.demolab.com/github/followers/sh1vam-03?color=6F3AFF&labelColor=0D1117&style=for-the-badge&logo=person-add&label=FOLLOWERS&logoColor=white" alt="GitHub Followers" />
+      </a>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://img.shields.io/github/stars/sh1vam-03?affiliations=OWNER&color=6F3AFF&style=for-the-badge&logo=github&label=STARS&labelColor=0D1117" alt="GitHub Stars" />
+    </td>
+  </tr>
+</table></div>
+
+## About Me  
+<div style="background: rgba(111, 58, 255, 0.05); padding: 15px; border-radius: 10px; max-width: 1200px; margin: 0 auto 30px; width: calc(100% - 30px);">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td style="background: rgba(111, 58, 255, 0.1); padding: 20px; border-radius: 10px; border-top: 3px solid #6F3AFF;">
+        <p style="line-height: 1.6; margin: 0;">
+          I am a <strong>Full Stack Developer</strong> and <strong>Ethical Hacker</strong> with specialized expertise in <strong>Web Security & Penetration Testing</strong>. My unique combination of development skills and security knowledge allows me to build robust web applications with security integrated at every layer of the technology stack.
+        </p>
+        <p style="line-height: 1.6; margin: 15px 0 0;">
+          With experience in both creating software and ethically breaking it, I implement security best practices during development while proactively identifying vulnerabilities through comprehensive penetration testing. This dual perspective enables me to deliver solutions that are not just functional, but fundamentally secure by design.
+        </p>
+        <p style="line-height: 1.6; margin: 15px 0 0;">
+          My technical approach combines modern web development frameworks with offensive security methodologies to create applications that withstand real-world threats while maintaining optimal performance and user experience.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## Tech Arsenal
+<div align="center" style="margin: 30px auto; max-width: 1200px; width: calc(100% - 30px); padding: 0 15px;">
+
+  <!-- Security Tools Table -->
+  <div style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; overflow-x: auto;">
+    <table style="width: 100%; border-collapse: collapse; min-width: 600px;">
+      <tr>
+        <th colspan="5" style="padding: 15px; text-align: center; color: #6F3AFF;"><b>Security Toolkit</b></th>
+      </tr>
+      <tr>
+        <td style="padding: 10px; text-align: center;">
+          <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" style="max-width: 100%;"/><br/>
+        </td>
+        <td style="padding: 10px; text-align: center;">
+          <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" style="max-width: 100%;"/><br/>
+        </td>
+        <td style="padding: 10px; text-align: center;">
+          <img src="https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" style="max-width: 100%;"/><br/>
+        </td>
+        <td style="padding: 10px; text-align: center;">
+          <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" style="max-width: 100%;"/><br/>
+        </td>
+        <td style="padding: 10px; text-align: center;">
+          <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" style="max-width: 100%;"/><br/>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <!-- Frontend/Backend Breakdown -->
+<!-- Full Stack Breakdown -->
+<table style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; border-collapse: collapse;">
+  <tr>
+    <th colspan="2" style="padding: 15px; text-align: center; color: #6F3AFF;">
+      <b>Full Stack Development (Learning & Building)</b>
+    </th>
+  </tr>
+  <tr>
+    <!-- Frontend -->
+    <td style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px; text-align: center; vertical-align: top;">
+      <h4 style="margin: 0 0 10px 0; color: #6F3AFF;">Frontend</h4>
+      <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+      </div>
+    </td>
+    <!-- Backend -->
+    <td style="padding: 15px; background: rgba(111, 58, 255, 0.1); border-radius: 10px; text-align: center; vertical-align: top;">
+      <h4 style="margin: 0 0 10px 0; color: #6F3AFF;">Backend</h4>
+      <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+        <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+## GitHub Analytics
+  <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+<!-- GitHub Contribution stats -->
+    <tr>
+      <td style="padding: 10px; width: 35%;">
+        <img src="https://gh-readme-profile.vercel.app/api?username=sh1vam-03&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Profile" width="1000"/>
+    </tr>
+</table>
+          <!-- GitHub Contribution Languages -->
+<!-- <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+<tr>
+      <td style="padding: 10px; width: 35%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1vam-03&layout=compact&hide_border=true&title_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
+      </td>
+       <td style="padding: 10px; width: 35%;">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sh1vam&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
+      </td>
+</tr> -->
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <!-- LEFT SIDE - TOP ROW (Trophies) -->
+    <td style="padding: 20px; text-align: center; vertical-align: top;">
+      <h4 style="color: #6F3AFF; margin-bottom: 15px;">🏆 GitHub Achievements</h4>
+      <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=sh1vam-03&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=5&margin-h=5" 
+           alt="GitHub Trophies" width="450"/>
+      <br><br>
+      <!-- LEFT SIDE - BOTTOM ROW (Pinned Repo) -->
+      <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=sh1vam-03&repo=whatsapp-spammer&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" 
+           alt="Pinned Repo" width="450"/> -->
+    </td>
+    <!-- RIGHT SIDE (Portfolio) -->
+    <td style="padding: 20px; text-align: center; vertical-align: middle;">
+      <a href="https://sh1vam-03.github.io/portfolio" style="color: #6F3AFF; font-size: 18px; font-weight: bold; text-decoration: none;">
+        🌐 Visit My Portfolio
+      </a>
+      <br><br>
+      <img src="https://github.com/user-attachments/assets/bc3cf9af-ad02-4c73-a9cc-88624c937474" 
+           alt="Portfolio Preview" width="450"/>
+    </td>
+  </tr>
+</table>
+
+  </div>
+</div>
+
+<div align="center" style="background: rgba(111, 58, 255, 0.1); padding: 30px; border-radius: 10px; margin: 30px auto; max-width: 1000px; width: calc(100% - 30px);">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td style="padding: 20px; text-align: center; vertical-align: middle;">
+        <h3 style="margin: 0 0 20px 0; color: #6F3AFF;">Let's collaborate!</h3>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+          <a href="https://www.linkedin.com/in/sh1vam~03">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;"/>
+          </a>
+          <a href="https://tryhackme.com/p/sh1vam.03">
+            <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" style="max-width: 100%;"/>
+          </a>
+          <a href="mailto: balaji030204@gmail.com">
+            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="max-width: 100%;"/>
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F3AFF&height=100&section=footer&animation=fadeIn&stroke=000000&strokeWidth=2" style="max-width: 100%;"/>
+</div>
  
