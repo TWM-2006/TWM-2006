@@ -1,4 +1,4 @@
-# <p align="center"> Hi 👋, I'm Zerom</div>
+# <p align="center"> Hi 👋, I'm Tamer</div>
 
 
 ###
@@ -22,10 +22,8 @@
 - ⚡ Fun fact I am Best
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/pZYS8KDSV5) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ZionistFucker5000) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TchZerom) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/GYwgt4) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Tamer-2006) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Tamer20006) 
 
-
- ![Discord]( https://i.ibb.co/n862CXym/Screenshot-from-2025-09-23-13-28-59.png)
  
  ## </> Languages and Tools:                                                                           
 <div align="center">
