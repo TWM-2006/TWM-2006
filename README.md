@@ -41,7 +41,7 @@
     <tr>
       <td style="background: rgba(111, 58, 255, 0.1); padding: 20px; border-radius: 10px; border-top: 3px solid #6F3AFF;">
         <p style="line-height: 1.6; margin: 0;">
-        I am a <strong>Game Developer</strong>strong>, <strong>Full Stack Developer</strong>strong>, and <strong>Ethical Hacker</strong>strong> with a focus on secure and scalable systems. I build interactive experiences and web applications with performance, architecture, and security in mind.</p>
+        I am a <strong>Game Developer</strong>,<strong>Full Stack Developer</strong>strong>, and <strong>Ethical Hacker</strong>strong> with a focus on secure and scalable systems. I build interactive experiences and web applications with performance, architecture, and security in mind.</p>
         <p style="line-height: 1.6; margin: 15px 0 0;">
           My background in both software development and penetration testing allows me to approach projects from a dual perspective — creating robust solutions while proactively identifying and mitigating potential vulnerabilities.
 
