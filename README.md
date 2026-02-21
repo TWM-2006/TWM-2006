@@ -22,11 +22,11 @@
 <table align="center" style="width: 100%; max-width: 800px; border-collapse: collapse; margin: 20px auto;">
   <tr>
     <td align="center" style="padding: 12px;">
-      <img src="https://komarev.com/ghpvc/?username=sh1vam-03&label=PROFILE+VIEWS&color=6F3AFF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=TWM-2006&label=PROFILE+VIEWS&color=6F3AFF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
     </td>
     <td align="center" style="padding: 12px;">
       <a href="https://github.com/TWM-2006?tab=followers">
-        <img src="https://custom-icon-badges.demolab.com/github/followers/sh1vam-03?color=6F3AFF&labelColor=0D1117&style=for-the-badge&logo=person-add&label=FOLLOWERS&logoColor=white" alt="GitHub Followers" />
+        <img src="https://custom-icon-badges.demolab.com/github/followers/TWM-2006?color=6F3AFF&labelColor=0D1117&style=for-the-badge&logo=person-add&label=FOLLOWERS&logoColor=white" alt="GitHub Followers" />
       </a>
     </td>
     <td align="center" style="padding: 12px;">
