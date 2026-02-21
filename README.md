@@ -4,7 +4,7 @@
 
 <!-- Professional Role Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Developer-TWM-2006-6F3AFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Developer-TWM--2006-6F3AFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Web_Tester-0D1117?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117" />
 </p>
 
