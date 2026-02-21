@@ -12,7 +12,7 @@
 
 
   <div style="margin: 20px 0; padding: 0 15px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=6F3AFF&center=true&vCenter=true&width=800&height=70&lines=Full+Stack+Developer;Web+Security+%26+Penetration+Tester;" alt="Typing SVG" style="max-width: 100%; height: auto;"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=6F3AFF&center=true&vCenter=true&width=800&height=70&lines=Game+Developer;Full+Stack+Developer;Web+Security+%26+Penetration+Tester;" alt="Typing SVG" style="max-width: 100%; height: auto;"/>
   </div>
 </div>
 
