@@ -30,7 +30,7 @@
       </a>
     </td>
     <td align="center" style="padding: 12px;">
-      <img src="https://img.shields.io/github/stars/sh1vam-03?affiliations=OWNER&color=6F3AFF&style=for-the-badge&logo=github&label=STARS&labelColor=0D1117" alt="GitHub Stars" />
+      <img src="https://img.shields.io/github/stars/TWM-2006?affiliations=OWNER&color=6F3AFF&style=for-the-badge&logo=github&label=STARS&labelColor=0D1117" alt="GitHub Stars" />
     </td>
   </tr>
 </table></div>
