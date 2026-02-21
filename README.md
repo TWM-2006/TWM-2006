@@ -45,10 +45,8 @@
         <p style="line-height: 1.6; margin: 15px 0 0;">
           My background in both software development and penetration testing allows me to approach projects from a dual perspective — creating robust solutions while proactively identifying and mitigating potential vulnerabilities.
 
-        </p>
-        <p style="line-height: 1.6; margin: 15px 0 0;">
+        </p><p style="line-height: 1.6; margin: 15px 0 0;">
           I aim to deliver applications and games that balance functionality, performance, and practical security standards.</p>
-          
       </td>
     </tr>
   </table>
