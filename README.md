@@ -47,8 +47,7 @@
 
         </p>
         <p style="line-height: 1.6; margin: 15px 0 0;">
-          I aim to deliver applications and games that balance functionality, performance, and practical security standards.
-        </p>
+          I aim to deliver applications and games that balance functionality, performance, and practical security standards.</p>
       </td>
     </tr>
   </table>
