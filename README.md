@@ -122,17 +122,17 @@
 <!-- GitHub Contribution stats -->
     <tr>
       <td style="padding: 10px; width: 35%;">
-        <img src="https://gh-readme-profile.vercel.app/api?username=sh1vam-03&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Profile" width="1000"/>
+        <img src="https://gh-readme-profile.vercel.app/api?username=TWM-2006&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Profile" width="1000"/>
     </tr>
 </table>
           <!-- GitHub Contribution Languages -->
 <!-- <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
 <tr>
       <td style="padding: 10px; width: 35%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1vam-03&layout=compact&hide_border=true&title_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWM-2006&layout=compact&hide_border=true&title_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
       </td>
        <td style="padding: 10px; width: 35%;">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sh1vam&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TWM-2006&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
       </td>
 </tr> -->
 <table style="width: 100%; border-collapse: collapse;">
