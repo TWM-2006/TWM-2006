@@ -41,7 +41,10 @@
     <tr>
       <td style="background: rgba(111, 58, 255, 0.1); padding: 20px; border-radius: 10px; border-top: 3px solid #6F3AFF;">
         <p style="line-height: 1.6; margin: 0;">
-          I am a <strong>Full Stack Developer</strong> and <strong>Ethical Hacker</strong> with specialized expertise in <strong>Web Security & Penetration Testing</strong>. My unique combination of development skills and security knowledge allows me to build robust web applications with security integrated at every layer of the technology stack.
+          I am a <strong>Game Developer</strong>, 
+          <strong>Full Stack Developer</strong>, and 
+          <strong>Ethical Hacker</strong> with a focus on secure and scalable systems.
+          I build interactive experiences and web applications with performance, architecture, and security in mind.
         </p>
         <p style="line-height: 1.6; margin: 15px 0 0;">
           With experience in both creating software and ethically breaking it, I implement security best practices during development while proactively identifying vulnerabilities through comprehensive penetration testing. This dual perspective enables me to deliver solutions that are not just functional, but fundamentally secure by design.
