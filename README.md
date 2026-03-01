@@ -7,6 +7,6 @@
 <!-- GitHub Contribution stats -->
     <tr>
       <td style="padding: 10px; width: 35%;">
-        <img src="https://gh-readme-profile.vercel.app/api?username=Thrax-911&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Profile" width="1000"/>
+        <img src="https://gh-readme-profile.vercel.app/api?username=TWM-2006&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Profile" width="1000"/>
     </tr>
 </table>
