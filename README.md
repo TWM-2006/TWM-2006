@@ -25,7 +25,7 @@
 
 
 ## GitHub Analytics
-        <img src="https://gh-readme-profile.vercel.app/api?username=TWM-2006&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Profile" width="1000"/>
+<img src="https://gh-readme-profile.vercel.app/api?username=TWM-2006&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Profile" width="1000"/>
  
 ![image](https://github.com/Dymidless/README.md/blob/main/dino.gif)
 
