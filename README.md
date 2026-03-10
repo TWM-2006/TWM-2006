@@ -30,3 +30,51 @@
  
 ![image](https://github.com/Dymidless/README.md/blob/main/dino.gif)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Gaming Development -->
+  <div style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; overflow-x: auto;">
+    <table style="width: 100%; border-collapse: collapse; min-width: 600px;">
+      <tr>
+        <th colspan="5" style="padding: 15px; text-align: center; color: #6F3AFF;"><b>Game Development Languages & Tools</b></th>
+      </tr>
+      <tr>
+        <td style="padding: 10px; text-align: center;">
+          <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+        </td>
+        <td style="padding: 10px; text-align: center;">
+          <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+        </td>
+        <td style="padding: 10px; text-align: center;">
+           <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+  </a>
+        </td>
+        <td style="padding: 10px; text-align: center;">
+          <a href="https://libsdl.org/" target="_blank" rel="noreferrer">
+    <img src="https://i.ibb.co/yFzkwL8z/SDL.png" alt="SDL" width="40" height="40"/>
+  </a>
+        </td>
+      </tr>
+    </table>
+  </div>
